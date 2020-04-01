@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Ignore Collisions
+  - Accept Collisions
+  - GrabableDistance
   - 
   - 
   - 
